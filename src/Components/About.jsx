@@ -39,13 +39,10 @@ const skillsList = [
   "Graphic design",
 ];
 
-/**
- * Use this to give more information about what you are passionate about,
- * how you best work, or even a quote. This will help someone learn more
- * about you on a professional level.
- */
+
+
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I bring creativity and passion to problem-solving in order to drive innovation. With extensive software engineering experience under my belt, I make it my ongoing mission to find better my skills everyday and make tech known to all!";
 
 const About = () => {
   return (
